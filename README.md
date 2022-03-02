@@ -2,6 +2,7 @@
 https://parmbir21.github.io/Responsive-Portfolio/aboutme.html
 
 # Responsive Portfolio
+There have been changes made to the website since it's initial conception which is why the photos might look different from the actual deployed version.
 
 ![Navigation bar](Assets/Navbar.PNG)
 ![Introducing myself](Assets/aboutme.PNG)
